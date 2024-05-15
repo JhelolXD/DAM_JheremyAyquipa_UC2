@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DAM_JheremyAyquipa</string>
+    <string name="ingenieria_sistemas">Ingeniera de Sistemas</string>
+    <string name="ingeniera_electronica">Ingeniera Electrónica</string>
+    <string name="ingenieria_ambiental">Ingeniera Ambiental</string>
+    <string name="administracion_empresas">Administracion de empresas</string>
+    <string name="examen_admision">Examen de admision 2021</string>
 </resources>
